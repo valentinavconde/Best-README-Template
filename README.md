@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/LogoSample_ByTailorBrands.jpg" alt="Logo" width="100" height="100">
+    <img src="images/LogoSample_ByTailorBrands.jpg" alt="Logo" width="150" height="100">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
@@ -83,18 +83,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<img src="images/colombia-montenegro-coffee-park-photolatino.jpg" alt="Logo" width="350" height="250">
+  </a>
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
+Coffee Park is an exciting and challenging maze runner game inspired by the rich and vibrant Coffee Park of Colombia. Developed by two passionate Colombian students, this immersive game will take you on an unforgettable adventure through the maze, where you will face a variety of obstacles, puzzles, and enemies while trying to find your way out. Use your wit, problem-solving skills, and strategic thinking to overcome these challenges and escape the maze victorious.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -102,16 +94,12 @@ Use the `BLANK_README.md` to get started.
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+* <img src="images/Screenshot 2024-01-23 000423.png" alt="Logo" width="90" height="30">
+  </a>
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+Open-source Java framework for developing 2D desktop, web, and mobile games.
+It is designed to be lightweight and portable, it is also highly customizable and allows developers to create games with a wide variety of graphics and gameplay styles.
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
